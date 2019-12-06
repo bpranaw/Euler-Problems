@@ -1,0 +1,2 @@
+# Euler-Problems
+[FOR PERSONAL RECORD] This is a series of programs to compute the answer to Project Euler Problems. I fully support Project Euler's philosophy in encouraging each person to practice their intellectual capabilities. This repository is not meant to provide any answers for any people or to deny them of the challenge of solving the problem themselves. This is only a record for my personal use, so that I may keep track and come back to my previous work so I can see my own progress and improve upon my work.

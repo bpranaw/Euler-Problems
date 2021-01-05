@@ -1,3 +1,9 @@
+'''
+Created 2020
+Even Fibonacci numbers
+@author: Pranaw Bajracharya
+'''
+
 #Fibonacci Sequence function (0,1,1,2,3,5,8, ...)
 #Inputs: n (the number in the sequence)
 #Output: y (The Value of the specified number in the sequence)

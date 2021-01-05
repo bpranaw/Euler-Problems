@@ -1,3 +1,9 @@
+'''
+Created 2020
+Multiples of 3 and 5
+@author: Pranaw Bajracharya
+'''
+
 #Variables(x is the number that are tested for divisibility by 3 or 5, and y is the sum of all those numbers within the range)
 y = 0 
 x = 0

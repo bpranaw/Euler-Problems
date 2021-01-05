@@ -1,6 +1,6 @@
 '''
 Created on Dec 12, 2019
-Calculate Largest Prime Factor
+Largest Prime Factor
 @author: Pranaw Bajracharya
 '''
 
